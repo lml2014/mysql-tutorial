@@ -1,5 +1,17 @@
-# MacOS
-#
+/target/*
+target
+/.idea/*
+*.log
+.project
+.settings
+.classpath
+.svn
+.gitignore
+.idea
+.buildpath
+.gitmodules
+*.iml
+rebel.xml
 .DS_Store
 
 # node.js
